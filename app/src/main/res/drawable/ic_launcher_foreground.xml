@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Basit beyaz sohbet balonu -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30 C41,30 31,38.5 31,49 C31,55 34.5,60.5 40,64 L37,75 L48.5,69.5 C50.3,69.8 52.1,70 54,70 C67,70 77,61.5 77,51 C77,40.5 67,30 54,30 Z" />
+    <path
+        android:fillColor="#25D366"
+        android:pathData="M45,45 L63,45 L63,49 L45,49 Z M45,53 L58,53 L58,57 L45,57 Z" />
+</vector>
